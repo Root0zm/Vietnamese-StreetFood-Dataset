@@ -1,17 +1,3 @@
----
-license: cc-by-4.0
-task_categories:
-  - image-classification
-language:
-  - vi
-  - en
-tags:
-  - vietnamese-food
-  - street-food
-  - vietnam
-  - food-recognition
-pretty_name: Vietnamese Street Food Dataset
----
 # Vietnamese Street Food Dataset
 
 This dataset contains **approximately 3,500 real-world images** of popular **Vietnamese street food** dishes. The images were collected to support tasks such as image classification, food recognition, and cultural heritage preservation related to Vietnamese cuisine.
