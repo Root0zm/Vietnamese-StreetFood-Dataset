@@ -4,6 +4,8 @@ This dataset contains **approximately 3,500 real-world images** of popular **Vie
 
 All photos focus on authentic street-style presentations — from markets, vendors, and everyday eating spots across Vietnam. The dataset is particularly useful for training models to identify Vietnamese foods in natural, varied conditions (different angles, lighting, backgrounds, and plating styles).
 
+This dataset supports the **Real-Time Smart Service Framework** described in **[[1]](#reference-1)** for automatically recognizing Vietnamese dishes.
+
 **Hugging Face Dataset Link**: [https://huggingface.co/datasets/HoagMin/Vietnamese_StreetFood_Dataset] 
 
 ### Key Features
@@ -46,3 +48,9 @@ dataset/
 └── test/
     ├── images/     # Test images
     └── labels/     # Test labels (.txt)
+```
+
+### References
+
+* <a id="reference-1"></a>**[1]** **A Real-Time Smart Service Framework for Vietnamese Cuisine: Integrating YOLOv12 and Semantic Synthesis for Automated Digital Menus** (FJCAI 2026).  
+  [https://drive.google.com/file/d/1Wz_Vb2SyJRiSeEEd3hpl84dl1yNImG9Z/view?usp=sharing]
