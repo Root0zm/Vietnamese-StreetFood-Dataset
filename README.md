@@ -52,5 +52,5 @@ dataset/
 
 ### References
 
-* <a id="reference-1"></a>**[1]** **A Real-Time Smart Service Framework for Vietnamese Cuisine: Integrating YOLOv12 and Semantic Synthesis for Automated Digital Menus** (FJCAI 2026).  
+* <a id="reference-1"></a>**[1]** **A Real-Time Smart Service Framework for Vietnamese Cuisine: Integrating YOLOv12 and Semantic Synthesis for Automated Digital Menus**.  
   [https://drive.google.com/file/d/1Wz_Vb2SyJRiSeEEd3hpl84dl1yNImG9Z/view?usp=sharing]
