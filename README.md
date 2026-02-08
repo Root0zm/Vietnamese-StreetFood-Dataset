@@ -1,10 +1,17 @@
 # Vietnamese Street Food Dataset
+This repository contains the dataset used in the paper:
 
+Multimodal Vision–Language Understanding for Real-Time Multi-Dish Recognition and Semantic-Aware Digital Menu Generation **[[1]](#reference-1)**
+
+Thi Hoa Hue Nguyen, Pham Minh Hoang (Corresponding Author), Vu Dinh Hiep, Nguyen Thi Lan Anh, Duong Thi Huong Tra, Tran Hai Anh
+Hanoi University of Industry; Hanoi University of Science and Technology
+
+The International Conference on Intelligent Systems & Networks (ICISN 2026), Hanoi, Vietnam 
+
+# Overview
 This dataset contains **approximately 3,500 real-world images** of popular **Vietnamese street food** dishes. The images were collected to support tasks such as image classification, food recognition, and cultural heritage preservation related to Vietnamese cuisine.
 
 All photos focus on authentic street-style presentations — from markets, vendors, and everyday eating spots across Vietnam. The dataset is particularly useful for training models to identify Vietnamese foods in natural, varied conditions (different angles, lighting, backgrounds, and plating styles).
-
-This dataset supports the **Real-Time Smart Service Framework** described in **[[1]](#reference-1)** for automatically recognizing Vietnamese dishes.
 
 **Hugging Face Dataset Link**: [https://huggingface.co/datasets/HoagMin/Vietnamese_StreetFood_Dataset] 
 
@@ -52,5 +59,5 @@ dataset/
 
 ### References
 
-* <a id="reference-1"></a>**[1]** **A Real-Time Smart Service Framework for Vietnamese Cuisine: Integrating YOLOv12 and Semantic Synthesis for Automated Digital Menus**.  
-  [https://drive.google.com/file/d/1Wz_Vb2SyJRiSeEEd3hpl84dl1yNImG9Z/view?usp=sharing]
+* <a id="reference-1"></a>**[1]** **Multimodal Vision–Language Understanding for Real-Time Multi-Dish Recognition and Semantic-Aware Digital Menu Generation**.  
+  [https://drive.google.com/file/d/1BiDtCMCUqDWNfOHG_SkVuKDxwZjD-DSk/view?usp=sharing]
